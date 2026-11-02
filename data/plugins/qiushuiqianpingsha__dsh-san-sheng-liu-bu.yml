@@ -1,0 +1,6 @@
+url: https://github.com/qiushuiqianpingsha/dsh-san-sheng-liu-bu
+name: 三省六部制流程优化插件
+category: workflow
+description:
+  en: 'Project-flow optimizer for DeepSeek Harness: classifies each turn as simple, medium or complex, then switches the reasoning effort per turn and hides heavy tools on simple turns. When the difficulty is unclear it asks once with a countdown card; a second turn such as "继续" reuses the previous gear.'
+  zh: '三省六部制流程优化插件：按任务难度自动切换推理档位与工具集——中书省定策（判定难度）、门下省审议（不确定时先问一次）、尚书省六部执行（重工具按需启用）。简单任务轻装快跑，复杂任务保留全量推理。'
